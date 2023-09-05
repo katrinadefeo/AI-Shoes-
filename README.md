@@ -13,9 +13,9 @@ Tools I used for this project were:
 
 All these tools are free to use but there are limitations, so please be aware of that.
 
-I am confident that AI is a tool that can make our lives easier and is not something people and oragnaizations should be afraid of. 
+I am confident that AI is a tool that can make our lives easier and is not something people and organizations should be afraid of. 
 I personally expect to be using it more in my personal life. Feel free to ask me any questions on how I did it. 
-This is my first ever AI project, and I am very happy with the results!
+This is my first-ever AI project, and I am very happy with the results!
 
 
 ![image](https://user-images.githubusercontent.com/98457140/227034128-dfefffca-adea-4fa6-b778-bff4d41b6ee9.png)
